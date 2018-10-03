@@ -1,0 +1,9 @@
+{
+    "client-id": 123123123213123123,
+    "client-secret": "123123123123123123123",
+    "bot-token": "234897239847298347298374298374298374298347",
+    "timeout-channel-name": "Time Out Corner",
+    "min-timeouts": 3,
+    "timeout-window": 30000,
+    "timeout-length": 60000
+}

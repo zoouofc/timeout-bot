@@ -1,0 +1,22 @@
+{
+  "name": "timeout-bot",
+  "version": "1.0.0",
+  "description": "Time people out in ZOO discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoouofc/timeout-bot.git"
+  },
+  "author": "Mitchell Sawatzky",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/zoouofc/timeout-bot/issues"
+  },
+  "homepage": "https://github.com/zoouofc/timeout-bot#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
